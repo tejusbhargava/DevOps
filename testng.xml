@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="All Tests">
+    <test name="Sample Test Run">
+        <classes>
+            <class name="maven_tests.AllureTest"/> 
+            <class name="maven.tests.RestAssuredTest"/>
+        </classes>
+    </test>
+</suite>
