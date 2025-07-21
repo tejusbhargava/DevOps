@@ -3,7 +3,7 @@
     <test name="Sample Test Run">
         <classes>
             <class name="maven_tests.AllureTest"/> 
-            <class name="maven.tests.RestAssuredTest"/>
+            <class name="maven_tests.RestAssuredTest"/>
         </classes>
     </test>
 </suite>
