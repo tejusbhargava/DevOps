@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Replace with your Git repository URL
-                git 'https://github.com/your-username/your-repo.git'
+                git 'https://github.com/tejusbhargava/DevOps.git'
             }
         }
 
